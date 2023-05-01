@@ -1,0 +1,2 @@
+def named(**kwargs):
+    print(**)
